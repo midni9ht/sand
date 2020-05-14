@@ -1,0 +1,2 @@
+# sand
+Publicly available sandbox
