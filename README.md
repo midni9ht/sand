@@ -1,2 +1,2 @@
 # sand
-Publicly available sandbox
+Stuff for the sandbox
